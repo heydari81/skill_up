@@ -1,0 +1,8 @@
+{
+    "name": "moduls/Heydari81",
+    "autoload": {
+        "psr-4": {
+            "Heydari81\\Common\\": "moduls/Heydari81/Common"
+        }
+    }
+}
